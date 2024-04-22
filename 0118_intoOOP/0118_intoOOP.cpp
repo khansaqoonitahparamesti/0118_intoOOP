@@ -84,3 +84,11 @@ class bangunDatar {
 		}
 
 };
+
+int main() {
+	bangunDatar pp; //deklarasi pp dari class bangundatar
+	pp.input();
+	pp.display();
+
+	return 0;
+}
